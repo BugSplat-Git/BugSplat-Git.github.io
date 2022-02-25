@@ -22,7 +22,8 @@ Here are a few sample integrations:
 Here are a few libraries we have open-sourced:
 
 | Name | Repo | Sample |
-| ngx-animated-counter | [github](https://github.com/BugSplat-Git/ngx-animated-counter) | [link](./ngx-animated-counter-example)
+| ngx-animated-counter | [github](https://github.com/BugSplat-Git/ngx-animated-counter) | [link](./ngx-animated-counter-example) |
+| ngb-filterable-dropdown | [github](https://github.com/BugSplat-Git/ngx-animated-counter) | [link](../ngb-filterable-dropdown-example/)
 
 ## Contact
 
