@@ -16,6 +16,7 @@ Here are a few sample integrations:
 
 | Platform | Sample | Docs |
 | Angular  | [my-angular-crasher](./my-angular-crasher/) | [link](https://docs.bugsplat.com/introduction/getting-started/integrations/web/angular) |
+| React    | [my-react-crasher](./my-react-crasher/)     | [link](https://docs.bugsplat.com/introduction/getting-started/integrations/web/react)
 
 ## Libraries
 
