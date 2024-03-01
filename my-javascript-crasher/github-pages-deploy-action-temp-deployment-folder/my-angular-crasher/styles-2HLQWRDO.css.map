@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["projects/my-angular-crasher/src/styles.css"],
+  "sourcesContent": ["/* You can add global styles to this file, and also import other style files */\nbody {\n  font-family: sans-serif;\n}\n\nbody::before {\n  content: '';\n  display: block;\n  position: absolute;\n  left: 0;\n  top: 0;\n  width: 100%;\n  height: 100%;\n  z-index: -1;\n  opacity: 0.5;\n  background-image: url('./assets/background.png');\n  background-repeat: repeat;\n  background-size: 25%;\n}\n"],
+  "mappings": "AACA,KACE,YAAa,UACf,CAEA,IAAI,QACF,QAAS,GACT,QAAS,MACT,SAAU,SACV,KAAM,EACN,IAAK,EACL,MAAO,KACP,OAAQ,KACR,QAAS,GACT,QAAS,GACT,iBAAkB,uCAClB,kBAAmB,OACnB,gBAAiB,GACnB",
+  "names": []
+}
