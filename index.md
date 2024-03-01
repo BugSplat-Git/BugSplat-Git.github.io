@@ -10,13 +10,14 @@ description: The go-to toolbox for fixing crashes 🧰
 
 ## Platforms
 
-Our pages site [bugsplat-git.github.io](bugsplat-git.github.io) is currently under development and does not contain samples from all the platforms we support. You can a comprehensive list of our supported platforms and sample implementations by visiting our [docs](https://docs.bugsplat.com/introduction/getting-started/integrations).
+Our pages site [bugsplat-git.github.io](bugsplat-git.github.io) is currently under development and does not contain samples from all the platforms we support. You can see a comprehensive list of our supported platforms and sample implementations by visiting our [docs](https://docs.bugsplat.com/introduction/getting-started/integrations).
 
 Here are a few sample integrations:
 
 | Platform | Sample | Docs |
 | Angular  | [my-angular-crasher](./my-angular-crasher/) | [link](https://docs.bugsplat.com/introduction/getting-started/integrations/web/angular) |
-| React    | [my-react-crasher](./my-react-crasher/)     | [link](https://docs.bugsplat.com/introduction/getting-started/integrations/web/react)
+| React    | [my-react-crasher](./my-react-crasher/)     | [link](https://docs.bugsplat.com/introduction/getting-started/integrations/web/react) |
+| JavaScript | [my-javascript-crasher](./my-javascript-crasher/)  | [link](https://docs.bugsplat.com/introduction/getting-started/integrations/web/javascript) |
 
 ## Libraries
 
